@@ -1,0 +1,150 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/meeting",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/my/auth",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/my/login",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/my/reg",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/content",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/search",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },  {
+      "path": "pages/index/editInfo",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/myMeeting",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/myMeetingDetail",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/myTalk",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/myTalkDetail",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/editMe",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/meetingDetail",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/invite",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/lists",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/msg",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/weburl",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    },
+    {
+      "path": "pages/index/me",
+      "style": {
+        "navigationBarTitleText": ""
+      }
+    }
+    
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "会议直播",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8E8E93",
+    "selectedColor": "#2582eb",
+    "backgroundColor":"#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/meeting",
+        "iconPath": "static/img/tab_home.png",
+        "selectedIconPath": "static/img/tab_home_sel.png",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/index/msg",
+        "iconPath": "static/img/tab_msg.png",
+        "selectedIconPath": "static/img/tab_msg_sel.png",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/index/me",
+        "iconPath": "static/img/tab_me.png",
+        "selectedIconPath": "static/img/tab_me_sel.png",
+        "text": ""
+      } 
+    ]
+  } 
+}
